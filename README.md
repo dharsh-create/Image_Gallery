@@ -195,12 +195,7 @@ footer {
 ```
 
 ## OUTPUT
-<img width="1913" height="1090" alt="Screenshot 2025-10-29 051146" src="https://github.com/user-attachments/assets/f437cf71-8ad0-4520-b39b-772b1374328b" />
 
-
-<img width="1884" height="1083" alt="Screenshot 2025-10-29 051200" src="https://github.com/user-attachments/assets/7a2481ef-c6c7-4ad1-be02-cf805d46cc85" />
-
-<img width="1915" height="1080" alt="Screenshot 2025-10-29 051213" src="https://github.com/user-attachments/assets/564daa3f-d360-4d47-99d7-5fc116e9fa83" />
 
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
