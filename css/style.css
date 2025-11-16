@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.main-box img {
+    width: 400px;
+    height: auto;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+.thumbnail-box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.thumbnail-box img {
+    width: 100px;
+    cursor: pointer;
+    border: 2px solid gray;
+}
